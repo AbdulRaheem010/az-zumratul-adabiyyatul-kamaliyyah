@@ -1,0 +1,9 @@
+[
+  {
+    "id": "usr_admin_001",
+    "name": "System Administrator",
+    "email": "admin@adabiyyah.local",
+    "passwordHash": 5261165934612939956,
+    "role": "admin"
+  }
+]
