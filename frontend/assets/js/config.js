@@ -1,1 +1,3 @@
-window.APP_CONFIG={API_BASE:'https://az-zumratul-adabiyyatul-kamaliyyah-api.onrender.com'};
+window.APP_CONFIG={
+  API_BASE:'https://az-zumratul-adabiyyatul-kamaliyyah-api.onrender.com/api'
+};
