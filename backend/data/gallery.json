@@ -1,0 +1,12 @@
+[
+  {
+    "id": "gal_context_001",
+    "title": "Ilorin Islamic heritage",
+    "category": "Heritage",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Central_mosque_of_Ilorin.jpg?width=1200",
+    "alt": "Ilorin Central Mosque",
+    "caption": "Contextual Ilorin image; replace with official school photography.",
+    "sortOrder": 1,
+    "published": true
+  }
+]
