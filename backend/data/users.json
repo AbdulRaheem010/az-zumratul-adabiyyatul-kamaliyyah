@@ -3,7 +3,7 @@
     "id": "usr_admin_001",
     "name": "System Administrator",
     "email": "admin@adabiyyah.local",
-    "passwordHash": 5261165934612939956,
+    "passwordHash": "3eb3fe66b31e3b4d10fa70b5cad49c7112294af6ae4e476a1c405155d45aa121",
     "role": "admin"
   }
 ]
